@@ -1,0 +1,2 @@
+# Bind
+# https://tea.xyz/what-is-this-file --- version: 1.0.0 codeOwners:   - '0x222824b54d1cE9E3A7b8314D82D1F7A193B6aE11' quorum: 1
